@@ -1,10 +1,13 @@
 #  GPI MID TOWER
 
-Alumno	Rol	Tarea Asignada	@Github
-Lautaro Cardozo	Scrum Master	Gestiona el GitHub	@lautaroalexiscardozo12
-Lucas Fretes	Product Owner	Organiza la estructura	@freteslucas275-hue
-Alan Gabriel Villar	Dev Team		@alanvillar05
-Juan Pablo Barrionuevo	Dev Team		@TraikaTk
+
+
+| Alumno  |Rol   |Tarea Asignada   |  @Github |   
+|---|---|---|---|
+| Lautaro Cardozo  | Scrum Master  | Gestiona el GitHub  |  @lautaroalexiscardozo12 |   
+| Lucas Fretes  |  Product Owner | Organiza la estructura  | @freteslucas275-hue  |
+| Alan Gabriel Villar  | 	Dev Team  | Investigacion  |@alanvillar05  |
+| Juan Pablo Barrionuevo |	Dev Team	| Investigacion |	@TraikaTk |
 
 ---
 
