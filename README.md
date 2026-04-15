@@ -1,7 +1,7 @@
 #  GPI MID TOWER
 
 ## 👥 Integrantes del Equipo
-- Lautaro Cardozo – Scrum Master (Git Master) 
+- Lautaro Cardozo – Scrum Master (Git Master) @lautaroalexiscardozo12
 - Lucas Fretes – Product Owner (Documentalista) @freteslucas275-hue
 - Alan Gabriel Villar – Dev Team (Investigador) @alanvillar05
 - Juan Pablo Barrionuevo – Dev Team (Investigador) @TraikaTk
