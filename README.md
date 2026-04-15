@@ -4,7 +4,7 @@
 - Lautaro Cardozo – Scrum Master (Git Master) 
 - Lucas Fretes – Product Owner (Documentalista) @freteslucas275-hue
 - Alan Gabriel Villar – Dev Team (Investigador) @alanvillar05
-- Juan Pablo Barrionuevo – Dev Team (Investigador)
+- Juan Pablo Barrionuevo – Dev Team (Investigador) @TraikaTk
 
 ---
 
