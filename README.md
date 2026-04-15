@@ -16,8 +16,7 @@
 ## 🧠 Herramientas utilizadas
 - Google Docs
 - Google Drive
-- 
-- 
+- NotebookLM
 - GitHub
 
 ---
